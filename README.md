@@ -20,5 +20,5 @@ GitBook支持输出多种文档格式，如：
 
 ## 本项目地址
 
-- 仓库：https://github.com/einverne/gitbook-tutorial
-- 在线阅读：https://einverne.github.io/gitbook-tutorial
+- 仓库：https://github.com/johnny1952/gitbook-tutorial
+- 在线阅读：https://johnny1952.github.io/gitbook-tutorial
