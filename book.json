@@ -26,7 +26,7 @@
       "showLevel": true
     },
     "editlink": {
-      "base": "https://github.com/einverne/gitbook-tutorial",
+      "base": "https://github.com/johnny1952/gitbook-tutorial",
       "label": "编辑本页",
       "multilingual": false
     },
@@ -50,7 +50,7 @@
       "cutWordLib": "nodejieba"
     },
     "sitemap": {
-      "hostname": "https://einverne.github.io/"
+      "hostname": "https://johnny1952.github.io/"
     },
     "localized-footer": {
       "hline": true,
@@ -63,10 +63,11 @@
     "issues": false,
     "contribute": false,
     "sidebar": {
-      "博客地址": "https://einverne.github.io/"
+      "博客地址": "https://johnny1952.github.io/",
+      "copy from":"https://einverne.github.io/gitbook-tutorial"
     },
     "tail": {
-      "Gitbook使用入门": "http://einverne.github.io/gitbook-tutorial"
+      "Gitbook使用入门": "http://johnny1952.github.io/gitbook-tutorial"
     },
     "gitbook": false,
     "sharing": {
