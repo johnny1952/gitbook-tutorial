@@ -64,7 +64,7 @@
     "contribute": false,
     "sidebar": {
       "博客地址": "https://johnny1952.github.io/",
-      "copy from":"https://einverne.github.io/gitbook-tutorial"
+      "copy from https://einverne.github.io/gitbook-tutorial":""
     },
     "tail": {
       "Gitbook使用入门": "http://johnny1952.github.io/gitbook-tutorial"
